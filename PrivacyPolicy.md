@@ -1,8 +1,8 @@
-Privacy Policy
+# Privacy Policy
 
 Your privacy is important to us. This Privacy Policy explains how this VPN application handles your information and ensures your privacy while using the app. We are committed to protecting your data and maintaining transparency regarding how this application operates.
 
-1. Information We Collect
+## 1. Information We Collect
 
 This application does not collect, store, or transmit any personal data. All traffic remains on your device, and no information is sent to external servers or third parties. We do not require or process any personally identifiable information (PII), including but not limited to:
 
@@ -24,7 +24,7 @@ Automatically Collected Information
 
 This VPN application does not log, monitor, or collect any data related to your browsing activity, connection history, or personal information. Unlike other VPN providers that may track user behavior, our software ensures complete privacy and security.
 
-2. VPN Data Handling and Security
+## 2. VPN Data Handling and Security
 
 This VPN is designed to provide a secure and encrypted internet connection. Any data transmitted through the VPN tunnel is:
 
@@ -46,15 +46,13 @@ Collect DNS queries or other metadata.
 
 Since all traffic is encrypted and not logged, your online activity remains private and inaccessible to us or any third party.
 
-3. Permissions
+## 3. Permissions
 
 This VPN application may request certain system permissions to function correctly. Below is a breakdown of the permissions used and their purposes:
 
 VPN Configuration Access: Required to establish a secure VPN tunnel between your device and the VPN server.
 
 Network Access: Needed to facilitate VPN connectivity.
-
-Local Storage Access (if applicable): Only used to store user preferences and VPN configuration settings.
 
 These permissions are solely for functionality purposes and are never exploited for data collection, tracking, or analytics.
 
@@ -92,9 +90,9 @@ Since our VPN application does not collect or store any user data, there is no n
 
 This VPN application complies with all applicable privacy laws and regulations, including:
 
-General Data Protection Regulation (GDPR) (if applicable): Since we do not collect personal data, no data processing or storage takes place.
+General Data Protection Regulation (GDPR): Since we do not collect personal data, no data processing or storage takes place.
 
-California Consumer Privacy Act (CCPA) (if applicable): We do not sell or share user data.
+California Consumer Privacy Act (CCPA): We do not sell or share user data.
 
 Children’s Online Privacy Protection Act (COPPA): This application is not intended for use by children under the age of 13 and does not collect any data from minors.
 
