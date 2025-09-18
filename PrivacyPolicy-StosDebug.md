@@ -1,6 +1,4 @@
-# Privacy Policy for [App Name]
-
-**Effective Date:** [Insert Date]
+# Privacy Policy for StosDebug
 
 StosDebug ("we," "our," or "the App") is committed to protecting your privacy. This Privacy Policy explains how information is handled when you use our app.  
 
