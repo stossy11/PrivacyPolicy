@@ -55,4 +55,4 @@ If you have any questions about this Privacy Policy or the App's privacy practic
 
 ---
 
-*This privacy policy applies only to [App Name]. We are committed to protecting your privacy through our no-data-collection approach.*
+*This privacy policy applies only to UntitledSoundboard. We are committed to protecting your privacy through our no-data-collection approach.*
